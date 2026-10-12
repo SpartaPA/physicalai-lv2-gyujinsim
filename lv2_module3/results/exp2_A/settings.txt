@@ -1,0 +1,6 @@
+Integer values are: [103, 220, 20]
+Integer values are: [103, 150, 130]
+Double value is: 0.0006
+Integer value is: 3
+Integer value is: 5
+String value is: shape

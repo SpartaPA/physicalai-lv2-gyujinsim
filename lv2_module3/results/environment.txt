@@ -1,0 +1,9 @@
+PRETTY_NAME="Ubuntu 26.04.1 LTS"
+NAME="Ubuntu"
+VERSION_ID="26.04"
+VERSION="26.04.1 LTS (Resolute Raccoon)"
+VERSION_CODENAME=resolute
+ID=ubuntu
+ROS_DISTRO=lyrical
+Python 3.14.4
+OpenCV 4.10.0

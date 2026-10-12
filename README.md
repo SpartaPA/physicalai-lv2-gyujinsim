@@ -1,11 +1,9 @@
 심규진
 <br>
-lv2_module1 link : https://github.com/SpartaPA/physicalai-lv2-gyujinsim/tree/main/lv2_module1
-<br>
+lv2_module1 link : [과제 보고서](./lv2_module1/report.md)
 lv2_module2 link :
 <br>
-lv2_module3 link :
-<br>
+lv2_module3 link : [과제 보고서](./lv2_module3/report.md)
 lv2_module4 link :
 <br>
 lv2_module5 link :
