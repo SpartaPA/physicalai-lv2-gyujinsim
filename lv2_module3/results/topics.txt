@@ -8,7 +8,7 @@ Node namespace: /camera
 Topic type: sensor_msgs/msg/Image
 Topic type hash: RIHS01_d31d41a9a4c4bc8eae9be757b0beed306564f7526c88ea6a4588fb9582527d47
 Endpoint type: PUBLISHER
-GID: 01.0f.ee.a9.f5.02.46.dd.00.00.00.00.00.00.13.03
+GID: 01.0f.6b.b5.fa.00.aa.45.00.00.00.00.00.00.13.03
 QoS profile:
   Reliability: RELIABLE
   History (Depth): KEEP_LAST (10)
@@ -25,7 +25,7 @@ Node namespace: /
 Topic type: sensor_msgs/msg/Image
 Topic type hash: RIHS01_d31d41a9a4c4bc8eae9be757b0beed306564f7526c88ea6a4588fb9582527d47
 Endpoint type: SUBSCRIPTION
-GID: 01.0f.ee.a9.26.03.51.32.00.00.00.00.00.00.14.04
+GID: 01.0f.6b.b5.52.01.ef.a7.00.00.00.00.00.00.14.04
 QoS profile:
   Reliability: RELIABLE
   History (Depth): KEEP_LAST (1)
@@ -40,7 +40,7 @@ Node namespace: /
 Topic type: sensor_msgs/msg/Image
 Topic type hash: RIHS01_d31d41a9a4c4bc8eae9be757b0beed306564f7526c88ea6a4588fb9582527d47
 Endpoint type: SUBSCRIPTION
-GID: 01.0f.ee.a9.26.03.51.32.00.00.00.00.00.00.16.04
+GID: 01.0f.6b.b5.52.01.ef.a7.00.00.00.00.00.00.16.04
 QoS profile:
   Reliability: BEST_EFFORT
   History (Depth): KEEP_LAST (5)
@@ -55,7 +55,7 @@ Node namespace: /
 Topic type: sensor_msgs/msg/Image
 Topic type hash: RIHS01_d31d41a9a4c4bc8eae9be757b0beed306564f7526c88ea6a4588fb9582527d47
 Endpoint type: SUBSCRIPTION
-GID: 01.0f.ee.a9.4c.03.55.6d.00.00.00.00.00.00.13.04
+GID: 01.0f.6b.b5.53.01.7a.7b.00.00.00.00.00.00.13.04
 QoS profile:
   Reliability: RELIABLE
   History (Depth): KEEP_LAST (1)
@@ -75,7 +75,7 @@ Node namespace: /
 Topic type: sensor_msgs/msg/CompressedImage
 Topic type hash: RIHS01_15640771531571185e2efc8a100baf923961a4d15d5569652e6cb6691e8e371a
 Endpoint type: PUBLISHER
-GID: 01.0f.ee.a9.4c.03.55.6d.00.00.00.00.00.00.18.03
+GID: 01.0f.6b.b5.53.01.7a.7b.00.00.00.00.00.00.18.03
 QoS profile:
   Reliability: RELIABLE
   History (Depth): KEEP_LAST (1)
@@ -92,7 +92,7 @@ Node namespace: /
 Topic type: sensor_msgs/msg/CompressedImage
 Topic type hash: RIHS01_15640771531571185e2efc8a100baf923961a4d15d5569652e6cb6691e8e371a
 Endpoint type: SUBSCRIPTION
-GID: 01.0f.ee.a9.26.03.51.32.00.00.00.00.00.00.1c.04
+GID: 01.0f.6b.b5.52.01.ef.a7.00.00.00.00.00.00.1c.04
 QoS profile:
   Reliability: RELIABLE
   History (Depth): KEEP_LAST (1)
@@ -107,7 +107,7 @@ Node namespace: /
 Topic type: sensor_msgs/msg/CompressedImage
 Topic type hash: RIHS01_15640771531571185e2efc8a100baf923961a4d15d5569652e6cb6691e8e371a
 Endpoint type: SUBSCRIPTION
-GID: 01.0f.ee.a9.26.03.51.32.00.00.00.00.00.00.1e.04
+GID: 01.0f.6b.b5.52.01.ef.a7.00.00.00.00.00.00.1e.04
 QoS profile:
   Reliability: BEST_EFFORT
   History (Depth): KEEP_LAST (5)
@@ -127,7 +127,7 @@ Node namespace: /
 Topic type: sensor_msgs/msg/CompressedImage
 Topic type hash: RIHS01_15640771531571185e2efc8a100baf923961a4d15d5569652e6cb6691e8e371a
 Endpoint type: PUBLISHER
-GID: 01.0f.ee.a9.4c.03.55.6d.00.00.00.00.00.00.16.03
+GID: 01.0f.6b.b5.53.01.7a.7b.00.00.00.00.00.00.16.03
 QoS profile:
   Reliability: RELIABLE
   History (Depth): KEEP_LAST (1)
@@ -144,7 +144,7 @@ Node namespace: /
 Topic type: sensor_msgs/msg/CompressedImage
 Topic type hash: RIHS01_15640771531571185e2efc8a100baf923961a4d15d5569652e6cb6691e8e371a
 Endpoint type: SUBSCRIPTION
-GID: 01.0f.ee.a9.26.03.51.32.00.00.00.00.00.00.18.04
+GID: 01.0f.6b.b5.52.01.ef.a7.00.00.00.00.00.00.18.04
 QoS profile:
   Reliability: RELIABLE
   History (Depth): KEEP_LAST (1)
@@ -159,7 +159,7 @@ Node namespace: /
 Topic type: sensor_msgs/msg/CompressedImage
 Topic type hash: RIHS01_15640771531571185e2efc8a100baf923961a4d15d5569652e6cb6691e8e371a
 Endpoint type: SUBSCRIPTION
-GID: 01.0f.ee.a9.26.03.51.32.00.00.00.00.00.00.1a.04
+GID: 01.0f.6b.b5.52.01.ef.a7.00.00.00.00.00.00.1a.04
 QoS profile:
   Reliability: BEST_EFFORT
   History (Depth): KEEP_LAST (5)
@@ -179,7 +179,7 @@ Node namespace: /
 Topic type: geometry_msgs/msg/PointStamped
 Topic type hash: RIHS01_4c0296af86e01e562e9e0405d138a01537247580076c58ea38d7923ac1045897
 Endpoint type: PUBLISHER
-GID: 01.0f.ee.a9.4c.03.55.6d.00.00.00.00.00.00.15.03
+GID: 01.0f.6b.b5.53.01.7a.7b.00.00.00.00.00.00.15.03
 QoS profile:
   Reliability: BEST_EFFORT
   History (Depth): KEEP_LAST (1)
@@ -196,7 +196,7 @@ Node namespace: /
 Topic type: geometry_msgs/msg/PointStamped
 Topic type hash: RIHS01_4c0296af86e01e562e9e0405d138a01537247580076c58ea38d7923ac1045897
 Endpoint type: SUBSCRIPTION
-GID: 01.0f.ee.a9.26.03.51.32.00.00.00.00.00.00.20.04
+GID: 01.0f.6b.b5.52.01.ef.a7.00.00.00.00.00.00.20.04
 QoS profile:
   Reliability: BEST_EFFORT
   History (Depth): KEEP_LAST (1)
